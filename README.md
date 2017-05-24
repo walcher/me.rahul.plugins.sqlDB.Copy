@@ -1,4 +1,4 @@
-This is a copy of the original plugint, i have just uploaded to my profile to maintain version installed on my project.
+This is a copy of the original plugin, i have just uploaded it to my profile to maintain version installed on my project.
 
 cordova-plugin-dbcopy
 =====================
